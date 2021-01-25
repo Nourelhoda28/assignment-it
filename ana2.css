@@ -2,7 +2,7 @@ body {
     padding:0;
     margin:0;
 }
-
+/* fist part*/
 .first{
     background-image:url(img/cover.png) ;
     background-repeat: no-repeat;
@@ -74,20 +74,49 @@ h2.work{
     font-family: 'Rajdhani', sans-serif;
 }
 
-.img {
-    float: left;
-    width: 25%;
-    height: 100px;
-    display: table;
-}
-
 .design{
     color: white;
     background-color: #ff0048;
     text-align: center;
-  }
+}
 
+/*second part*/
 
+.meet{
+    text-align: center;
+    color:#ff0048;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+
+.names{
+    list-style-type: none;
+    text-align: center;
+    color:#ff0048;
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+      
+}
+
+.jobs{
+    list-style-type: none;
+    text-align: center;
+    color:#000000;
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+} 
+
+.button{
+    text-align: center;
+}
+.btn {
+    height: 35px;
+    width: 300px;
+}
+
+.contact:hover {
+    background-color:#ff0048;
+}
 
 
 
