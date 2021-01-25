@@ -1,0 +1,93 @@
+body { 
+    padding:0;
+    margin:0;
+}
+
+.first{
+    background-image:url(img/cover.png) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+
+ ul.lists{
+    list-style-type: none;
+    
+}
+li.hover {
+    float: left;
+}
+ li.hover a:hover {
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+    font-family: 'Redressed', cursive;
+}
+
+.list {
+    color: #c44572;
+}
+
+p.webfolk {
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+}
+
+.web{
+    text-align: center;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 50px;
+}
+
+.dream{
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 26px;
+}
+
+p.txt{
+    text-align: center;
+    color: white;
+
+}
+
+ul.empty{
+    padding-left: 50%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+h2.work{
+    text-align: center;
+    color: white;
+    background-color:#ff0048;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.img {
+    float: left;
+    width: 25%;
+    height: 100px;
+    display: table;
+}
+
+.design{
+    color: white;
+    background-color: #ff0048;
+    text-align: center;
+  }
+
+
+
+
+
