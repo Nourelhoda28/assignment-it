@@ -109,14 +109,65 @@ h2.work{
 .button{
     text-align: center;
 }
-.btn {
+.btn1 {
+    color: rgb(0, 0, 0);
+    border: none;
     height: 35px;
     width: 300px;
-}
-
-.contact:hover {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+  }
+  
+.btn1:hover {
     background-color:#ff0048;
+    color:#ffffff;
 }
 
 
+/*second part*/
+.third{
+    background-image:url(img/Cover_2\ \(1\).jpg) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.head{
+    color:#ffffff;
+    font-size: 40px;
+    text-align: left;
+}
+
+.para{
+    color:#ffffff;
+    text-align: left;
+      
+}
+
+.points{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    display: block;
+    padding-left: 8em;
+ }
+
+li.point{
+    float: left;
+    padding-left: 40px;
+}
+
+
+.btn2 {
+    color: rgb(0, 0, 0);
+    border: none;
+    height: 35px;
+    width: 300px;
+    border-radius: 5px;
+}
+  
+.btn2:hover {
+    background-color:#ff0048;
+    color:#ffffff;
+}
 
