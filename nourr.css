@@ -1,0 +1,173 @@
+body { 
+    padding:0;
+    margin:0;
+}
+
+/* fist part*/
+.first{
+    background-image:url(img/cover.png) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+ ul.lists{
+    list-style-type: none;
+    text-align: right;
+}
+li.hover {
+    float: left;
+}
+ li.hover a:hover {
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+    font-family: 'Redressed', cursive;
+}
+
+.list {
+    color: #c44572;
+}
+
+p.webfolk {
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+}
+
+.web{
+    text-align: center;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 50px;
+}
+
+.dream{
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 26px;
+}
+
+p.txt{
+    text-align: center;
+    color: white;
+
+}
+
+ul.empty{
+    padding-left: 50%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+h2.work{
+    text-align: center;
+    color: white;
+    background-color:#ff0048;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+
+.design{
+    color: white;
+    background-color: #ff0048;
+    text-align: center;
+}
+
+/*second part*/
+
+.meet{
+    text-align: center;
+    color:#ff0048;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+
+.names{
+    list-style-type: none;
+    text-align: center;
+    color:#ff0048;
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+      
+}
+
+.jobs{
+    list-style-type: none;
+    text-align: center;
+    color:#000000;
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+} 
+
+.button{
+    text-align: center;
+}
+.btn1 {
+    border: none;
+    height: 35px;
+    width: 300px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+  }
+  
+.btn1:hover {
+    background-color:#ff0048;
+    color:#ffffff;
+}
+
+
+/*second part*/
+.third{
+    background-image: url(img/Cover_2\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.head{
+    color:#ffffff;
+    font-size: 40px;
+    text-align: left;
+}
+
+.para{
+    color:#ffffff;
+    text-align: left;
+      
+}
+
+.points{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    display: block;
+    padding-left: 8em;
+ }
+
+li.point{
+    float: left;
+    padding-left: 40px;
+}
+
+
+.btn2 {
+    color: rgb(0, 0, 0);
+    border: none;
+    height: 35px;
+    width: 300px;
+    border-radius: 5px;
+}
+  
+.btn2:hover {
+    background-color:#ff0048;
+    color:#ffffff;
+}
+
